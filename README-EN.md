@@ -1,8 +1,8 @@
 # face_to_keyboard_mouse
 
-🚀 **Experience Freedom with face_to_keyboard_mouse: Control Your Computer with Facial Movements!** 🚀
+🚀 **Experience Freedom with face_to_keyboard_mouse: Control Your Computer with Facial Movements** 🚀
 
-Do you ever feel limited by just using a keyboard and mouse? Now, with **face_to_keyboard_mouse**, you can incorporate various facial movements as an additional input method! Utilize movements such as mouth gestures, blinking, and head turns to unlock a new realm of possibilities in computer control.
+With **face_to_keyboard_mouse**, you can incorporate various facial movements as an additional input method. Utilize movements such as mouth gestures, blinking, and head turns to unlock a new realm of possibilities in computer control.
 
 ## 🎮 Why Use face_to_keyboard_mouse?
 
@@ -29,7 +29,7 @@ face_to_keyboard_mouse is an innovative program that uses your webcam to track f
 1. Download the program and run the installation file to install it.
 2. Once the program is running, it will automatically connect to your webcam and start recognizing your face.
 3. In the settings, map specific facial movements to the desired keyboard or mouse input.
-   - Example: Map blinking to 'mouse click' and head turning to 'screen switch.'
+   - Example: Map blinking to 'mouse click' and head turning to 'spacebar.'
 4. Complete your custom setup and enjoy the new way of controlling your computer!
 
 ## 🔍 Log Collection
@@ -38,7 +38,6 @@ face_to_keyboard_mouse is an innovative program that uses your webcam to track f
 
 ### Purpose of Log Collection
 - To analyze and improve the program's performance.
-- To optimize user experience based on user feedback.
 
 ### Data Collected
 - Facial recognition data.
