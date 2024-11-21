@@ -31,7 +31,7 @@ face_to_keyboard_mouse은 웹캠을 이용해 얼굴의 다양한 움직임을 �
 1. 프로그램을 다운로드한 후, 압축을 풀고 파일을 실행하여 프로그램을 실행합니다.  
 2. 프로그램을 실행하고 약관을 읽습니다.  
 ![](Assets/Agreement.png)  
-3. Configuration Window를 눌러 매핑창으로 이동합니다.  
+3. Configure mapping을 눌러 매핑창으로 이동합니다.  
 ![](Assets/Main_Program.png)  
 4. Add Macro를 통해 매크로 할당 창으로 이동합니다.  
 ![](Assets/Configuration_Window.png)  
