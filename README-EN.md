@@ -32,6 +32,11 @@ face_to_keyboard_mouse is an innovative program that uses your webcam to track f
    - Example: Map blinking to 'mouse click' and head turning to 'spacebar.'
 4. Complete your custom setup and enjoy the new way of controlling your computer!
 
+
+## 😐 Facial Movement Check
+[Facial Movement Check](https://arkit-face-blendshapes.com/)
+You can check the range of facial movements recognized by the program.
+
 ## 🔍 Log Collection
 
 **face_to_keyboard_mouse** is an experimental program and may collect log data during use.
