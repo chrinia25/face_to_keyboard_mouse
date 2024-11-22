@@ -43,6 +43,11 @@ face_to_keyboard_mouse은 웹캠을 이용해 얼굴의 다양한 움직임을 �
 ![](Assets/Configuration_Window.png)   
 
 
+## 😐 얼굴 움직임 확인
+
+[얼굴 움직임 확인 사이트](https://arkit-face-blendshapes.com/)
+에서 프로그램이 인지하는 얼굴 움직임의 범위를 확인할 수 있습니다.
+
 ## 🔍 로그 수집 관련 사항
 
 **face_to_keyboard_mouse**은 실험적 목적으로 제작되었으며, 사용 중에 발생하는 로그 데이터를 수집할 수 있습니다.
